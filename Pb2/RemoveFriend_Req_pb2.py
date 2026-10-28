@@ -1,0 +1,3 @@
+# TANBIR YT protected source wrapper
+import base64 as _b64, zlib as _zlib
+exec(compile(_zlib.decompress(_b64.b85decode('c-oCqU2mH}5PauXY@G+3sy@X|>ROg8B@MXpLu?B>d8w-ta0@vJIC^(fb$@*qe?gom3KHD0J2QJb3m4G)+=EyNS)^mAY|<Om5$6JaV1YWcC?MK`eMTs?vMN>?L{*ZYCQ@F?3^fDr7BF9|!S`nCPee7U(lL%9z+C;osg_s>9^h}blOVvdUP%U)Tl=gEctUNYD#mcb247j<>2x|x`PX#?GD0|sRym|fr5Wy(YekutN?Q<UVl7LnG=v6t^ZG#+FBMgMN!`WX<(q9Dsf>%zhEZs6$3Kg`$!D^#sEaT=3PqL71n$p%*pqFyw|g(REDUN(j?s~b+TF9vrQ_7)xQJl#sxb2~39HO@2}PIZukM4{a=i#@>{*iymfZ=lLM_8g{zEaPd3PgsQ*8eBhi^}J)48eBS8+Q{@B!U@%GkS#My?-a9UKv`5A~x<kLxyU9qJTq0~@qqLxNomclEB_y6ZGkQJ5KO<*=hJkH)d@_4<Iugel$?!Y``aJN0Y2jT2wsD0I$VtFlEQk%QbzwtH>~FQb9mR+UNHYsMc}KELOU#tJ4Am=YAn4*gcAIOD3U=UsO=R|Qh?DEiaof&Z|0@~6SfpL^~v#?5J9+}Kdt$zb?l0-b#FZS>y9mMc+Z$W5$DymbBp&trT4')), __file__, 'exec'))
