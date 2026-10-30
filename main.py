@@ -83,8 +83,8 @@ async def MaiiiinE():
     global bot_uid, ToKen, region
 
     # ─── আপনার গেস্ট UID এবং পাসওয়ার্ড এখানে বসান ───
-    Uid = '8343618195'
-    Pw  = '2AF20BD840C9FAE79578504D6FDEB959C9DC72D9994C8B324213654DFF392A8B'
+    Uid = '8376687731'
+    Pw  = '988175E1FF73C5CE6F8408360C93A278DB9A60D157718DC20EF4ABD39FD3BE7A'
     REGION_PREF = "BD"
 
     print_banner()
